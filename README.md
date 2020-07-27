@@ -6,5 +6,5 @@ My name is Huiyu (Charlotte) Deng. I am a data scientist at City of Hope Nationa
 * Binary random effects expectation maximizaiton tree (BREEMtree)
 * Visualization of the cases of coronavirus in LA (stopped updating in May 2020 because I was so sad about the spike of cases after the lockdown)
 
-I am currently learning about implementing ML models in Python. Saying goodbuy to R is not easy for me :( 
+I am currently learning about implementing ML models in Python. Saying goodbye to R is not easy for me :( 
  
