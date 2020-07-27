@@ -1,6 +1,6 @@
 Hello World! 
 
-My name is Huiyu (Charlotte) Deng. I am a data scientist at City of Hope National Medical Center. I just received my Ph.D. in Biostatistics from the University of Southern California. Since I am done with my dissertation, I have more time to manage my GitHub page (YAY). Three main things that are important in my repo (I'm not saying the others are *trash* LOL): 
+My name is Huiyu (Charlotte) Deng. I am a data scientist at City of Hope National Medical Center. I just received my Ph.D. in Biostatistics from the University of Southern California. Since I am done with my dissertation, I have more time to manage my GitHub page (YAY). Three main things that are important in my repo currently: 
 
 * Implement the Shapelet algorithm in R (Shapelet)
 * Binary random effects expectation maximizaiton tree (BREEMtree)
